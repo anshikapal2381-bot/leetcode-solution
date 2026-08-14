@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0071-simplify-path) |
 ## Stack
 |  |
@@ -25,9 +26,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
