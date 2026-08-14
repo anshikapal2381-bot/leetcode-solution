@@ -40,4 +40,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
