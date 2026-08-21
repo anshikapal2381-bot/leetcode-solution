@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0086-partition-list) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
