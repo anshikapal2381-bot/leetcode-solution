@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0071-simplify-path) |
 ## Stack
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
