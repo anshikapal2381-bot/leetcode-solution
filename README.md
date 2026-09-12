@@ -52,15 +52,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0147-insertion-sort-list) |
 ## Quicksort
 |  |
