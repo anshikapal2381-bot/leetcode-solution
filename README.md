@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [3870-count-commas-in-range](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
 | ------- |
