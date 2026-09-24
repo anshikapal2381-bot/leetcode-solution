@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
