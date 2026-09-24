@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
