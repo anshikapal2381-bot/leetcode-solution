@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Memoization
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -197,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
