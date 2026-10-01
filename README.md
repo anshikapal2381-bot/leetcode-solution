@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0147-insertion-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0645-set-mismatch) |
