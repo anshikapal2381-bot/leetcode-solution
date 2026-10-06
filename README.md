@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0268-missing-number) |
 | [2652-sum-multiples](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0645-set-mismatch) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
