@@ -1,7 +1,7 @@
 class Solution {
     public ListNode swapPairs(ListNode head) {
         ListNode dummy = new ListNode(0, head);
-        ListNode prev = dummy, cur = head;
+        ListNode prev = dummy,cur=head;
 
         while (cur != null && cur.next != null) {
             ListNode npn = cur.next.next;
