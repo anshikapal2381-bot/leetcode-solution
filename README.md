@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0856-score-of-parentheses) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0101-symmetric-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 ## Hash Table
 |  |
