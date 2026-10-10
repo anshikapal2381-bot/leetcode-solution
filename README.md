@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Newton's Method
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1096-brace-expansion-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
