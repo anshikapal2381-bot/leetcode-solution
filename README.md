@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0645-set-mismatch) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
