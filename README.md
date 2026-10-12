@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0645-set-mismatch) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 ## Breadth-First Search
 |  |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
