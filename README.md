@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0202-happy-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
