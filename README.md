@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Floyd's Cycle Finding Algorithm
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
