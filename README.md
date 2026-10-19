@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Newton's Method
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1096-brace-expansion-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
