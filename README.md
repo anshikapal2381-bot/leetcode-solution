@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0110-balanced-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Floyd's Cycle Finding Algorithm
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshikapal2381-bot/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
